@@ -1,0 +1,3 @@
+/home/sam/Desktop/opencv/CMakeFiles/rebuild_cache.dir
+/home/sam/Desktop/opencv/CMakeFiles/edit_cache.dir
+/home/sam/Desktop/opencv/CMakeFiles/DisplayImage.dir
